@@ -67,8 +67,8 @@ local.properties
 ######################
 # Maven
 ######################
-/log/
-/target/
+log/
+target/
 .flattened-pom.xml
 
 ######################
@@ -125,6 +125,8 @@ Desktop.ini
 *.*~
 *~
 .merge_file*
+tags
+tags.lock
 
 ######################
 # Gradle Wrapper
